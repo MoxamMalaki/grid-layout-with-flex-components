@@ -6,7 +6,7 @@ body {
   .emoji {
     border: 1px solid #222;
     border-radius: 8px;
-    padding: 1rem;
+    padding: 1.5rem;
     display: grid;
     /* gap: 1.5em; */
     }
@@ -20,7 +20,7 @@ body {
     text-decoration: none;
     background-color: #781BAA;
     color: white;
-    padding: 1.5rem;
+    padding: 1rem;
     border-radius: 8px;
     text-align: center;
   }
