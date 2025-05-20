@@ -14,6 +14,8 @@ body {
   .emoji h2 {
     margin: 0;
     border-bottom: 2px solid #ccc;
+    display: flex;
+    justify-content: center;
   }
   
   .emoji a {
@@ -22,7 +24,7 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    text-align: center;
+    /* text-align: center; */
   }
 
   .align {
@@ -37,6 +39,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 4rem;
+    order: -1;
   }
   
   .emojis {
